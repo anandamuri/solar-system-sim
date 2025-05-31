@@ -1,5 +1,6 @@
 An animated solar system model made with python turtle.
 
 
-https://github.com/user-attachments/assets/e8bdb72f-a953-4c59-8709-d990a7fec9b3
+
+https://github.com/user-attachments/assets/85ec50bd-8a39-40d8-8d6a-405f5c9d384f
 
